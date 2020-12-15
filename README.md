@@ -1,3 +1,3 @@
-# Biostat214
-DMAR
-02-19-2020
+# Biostat 214
+
+Demo repo
