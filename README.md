@@ -1,3 +1,5 @@
-# Biostat 214
+# Biostat213-4
 
-Demo repo
+UCSF PDSR + ARP
+
+This is a class demo repository
